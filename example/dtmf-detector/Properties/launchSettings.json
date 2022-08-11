@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "dtmf-detector": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\natha\\OneDrive\\Documents\\GitHub\\DtmfDetection\\crowdNoise.ac3"
+    }
+  }
+}
